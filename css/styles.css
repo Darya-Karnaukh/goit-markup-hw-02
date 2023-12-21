@@ -1,0 +1,80 @@
+.page-nav .link {color: #2E2F42;
+font-size: 16px;
+line-height: 1.5;}
+
+.page-nav .link:hover {color: #404BBF;}
+
+.page-address .link {color: #434455;
+font-size: 16px;
+line-height: 1.5;}
+
+.page-address .link:hover {color: #404BBF;}
+
+.main-page-btn {background-color: #4D5AE5;
+color: #FFF;
+cursor: pointer;}
+
+.main-page-btn:hover {background-color: #404BBF;
+color: #FFF;}
+
+body {font-family: 'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
+color: #2a2a2a;
+background-color: #FFF;}
+
+.main-page-text {background: #2E2F42;}
+
+.main-page-text-title {color:#FFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.071;}
+
+.container-text {background-color: #FFF;}
+
+.container-text-title {color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;}
+
+.container-text-descr {color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;}
+
+.team-name {color:#2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;}
+
+.team-job-title {color: #434455;
+    font-size: 16px;
+    line-height: 1.5;}
+
+.team-company-list {list-style-type: none}
+
+.sector-team-company {background: #F4F4FD;}
+
+.sector-portfolio-company {background: #FFF;}
+
+.info-company {color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.111;}
+
+.item-portfolio-company {color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;}
+
+.direction-item-portfolio-company {color: #434455;
+    font-size: 16px;
+    line-height: 1.5;}
+
+.portfolio-company-list {list-style-type: none}
+
+.sector-contacts-company {background: #2E2F42}
+
+.text-contacts-company {color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;}
+
+.menu-page {background: #FFF;}
