@@ -77,9 +77,9 @@ background-color: #FFF;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.team-company-list {list-style-type: none;}
+.team-company-list {list-style-type: none}
 
-.page-team {background-color: #FFFFFF;}
+.team-company-page {background-color: #FFFFFF;}
 
 .team-name {color:#2E2F42;
     text-align: center;
