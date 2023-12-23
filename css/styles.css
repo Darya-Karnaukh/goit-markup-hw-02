@@ -15,9 +15,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;}
 
-.page-nav .link:hover {color: #404BBF;}
-
-.page-nav .link:active {color: #404BBF;}
+.page-nav .link:hover, .page-nav .link:focus {color: #404BBF;}
 
 .menu-address {font-style: normal;}
 
@@ -26,8 +24,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;}
 
-.page-address .link:hover {color: #404BBF;}
-.page-address .link:active {color: #404BBF;}
+.page-address .link:hover, .page-address .link:focus {color: #404BBF;}
 
 .main-page-btn {background-color: #4D5AE5;
 color: #FFF;
@@ -37,10 +34,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;}
 
-.main-page-btn:hover {background-color: #404BBF;
-color: #FFF;}
-
-.main-page-btn:active {background-color: #404BBF;
+.main-page-btn:hover, .main-page-btn:focus {background-color: #404BBF;
 color: #FFF;}
 
 body {font-family: 'Roboto', sans-serif;
@@ -81,7 +75,9 @@ background-color: #FFF;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.team-company-list {list-style-type: none}
+.team-company-list {list-style-type: none;}
+
+.team-nane-job {background-color: #FFFFFF;}
 
 .team-name {color:#2E2F42;
     text-align: center;
